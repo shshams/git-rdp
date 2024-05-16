@@ -4,8 +4,8 @@ Git RDP
 # Setup
 1. Go and copy the file of main.yml
 2. Go on your github account and create a private repository
-3. Go on workshop and create a new file.
-4. Copy all from the main.yml and put into your file
+3. Go on 'Action' and click on 'set up a workflow yourself'
+4. Copy all from the main.yml and put into your main.yml file
 5. Then save it
 
 # Setup Ngrok
